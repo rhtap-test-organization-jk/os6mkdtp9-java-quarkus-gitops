@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: os6mkdtp9-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/os6mkdtp9-java-quarkus
